@@ -12,13 +12,3 @@ A collection of custom 2-layer printed circuit boards designed in KiCad for powe
 
 ---
 
-## Layout Previews
-
-### 1. Dual-Input Buck & LDO Power Distribution Board
-![Power Supply PCB](./01-Dual-Input-Power-Supply/docs/power_supply_layout.png)
-
-### 2. STM32 Blackpill Multi-Sensor Carrier Board
-![Blackpill Carrier PCB](./02-Blackpill-Sensor-Carrier/docs/blackpill_carrier_layout.png)
-
-### 3. LDR07 Analog Light Sensor Breakout
-![LDR Breakout PCB](./03-LDR07-Light-Sensor-Breakout/docs/ldr_module_layout.png)
